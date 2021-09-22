@@ -1,6 +1,6 @@
 # Cars API
-
 I built the carsAPI to help me better understand and gain experience in building REST APIS
+
 This API was built using:
 - Node.js
 - Express
